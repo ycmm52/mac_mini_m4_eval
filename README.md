@@ -4,6 +4,11 @@
     * [Requirement](#requirement)
         * [M4Pro](#m4pro)
         * [M4](#m4)
+* [M4Pro](#m4pro-1)
+    * [Gaming](#gaming)
+    * [Coding](#coding)
+* [M4](#m4-1)
+    * [NAS](#nas)
 
 <!-- vim-markdown-toc -->
 
@@ -30,4 +35,12 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - cloud AI computing
 - ...???
 
+# M4Pro
 
+## Gaming
+
+## Coding
+
+# M4
+
+## NAS
