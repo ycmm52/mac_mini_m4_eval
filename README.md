@@ -5,9 +5,14 @@
         * [M4Pro](#m4pro)
         * [M4](#m4)
 * [M4Pro](#m4pro-1)
+    * [Accessories](#accessories)
     * [Gaming](#gaming)
+        * [Wine](#wine)
+        * [Crossover](#crossover)
     * [Coding](#coding)
+    * [Utilities](#utilities)
 * [M4](#m4-1)
+    * [Accessories](#accessories-1)
     * [NAS](#nas)
 
 <!-- vim-markdown-toc -->
@@ -15,8 +20,8 @@
 # Overview
 
 My plan to transfer daily work and gaming pc from windows to mac mini M4.
-Plan to buy two minis, one is M4Pro with upgraded cpu/gpu and 48GB RAM, 1999USD or 67900NTD.
-Another is basic M4 mini witout any upgarde, 199USD or 19999NTD   
+Plan to buy two minis, one is M4Pro with upgraded cpu/gpu and 48GB RAM, USD1999 or NTD67900.
+Another is basic M4 mini witout any upgarde, USD199 or NTD19999   
 M4Pro will be used daily and M4 will be setup as homelab.  
 
 <a href="https://www.apple.com/shop/shared/yoursaves/AAAjAAIBMXIMOp-iR805JAq-UbLCtauF0ou-d-ImIobOzCPHmSafZ-mZHXipbqdrEgcTRwSeAAIBUkVQ1QkZP3fx6zvF2JPduP9wkY66cR-Y016_MA8K4jg" target="_blank">Mac Mini sepcs</a>
@@ -37,10 +42,30 @@ M4Pro will be used daily and M4 will be setup as homelab.
 
 # M4Pro
 
+## Accessories
+
+- Hub : taobao, UGREEN
+- SSD : WDSN580X 2TB black NTD4530, <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=10452240" target="_blank">momo product link</a>
+- SSD disk box, taobao UGREEN
+
 ## Gaming
+
+### Wine
+
+### Crossover
 
 ## Coding
 
+## Utilities
+
+- screen shot : 
+- downloader : yt-dlp, <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">github</a>
+
 # M4
+
+## Accessories
+
+- HDD : WD40EZAX blue NTD2990, <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13357989" target="_blank">momo product link</a>
+- HDD external box : taobao UGREEN
 
 ## NAS
