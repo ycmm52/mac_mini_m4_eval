@@ -48,6 +48,8 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - SSD : WDSN580X 2TB black NTD4530, <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=10452240" target="_blank">momo product link</a>
 - SSD disk box, taobao UGREEN
 
+<a href="https://www.reddit.com/r/macmini/comments/1gj3ies/you_can_buy_the_mac_mini_with_the_smallest/" target="_blank">able to directly install apps on mac at macOS15</a>
+
 ## Gaming
 
 ### Wine
@@ -56,10 +58,21 @@ M4Pro will be used daily and M4 will be setup as homelab.
 
 ## Coding
 
+- Vim
+- VSCode
+- terminal : <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">kitty</a>
+- shell : zsh or fish?
+- window manager : tmux
+- package manager : brew
+- python package manager : uv
+
 ## Utilities
 
-- screen shot : 
 - downloader : yt-dlp, <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">github</a>
+- screen shot : 
+- file manager
+- browser
+- browser extensions
 
 # M4
 
