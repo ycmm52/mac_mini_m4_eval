@@ -7,8 +7,9 @@
 * [M4Pro](#m4pro-1)
     * [Accessories](#accessories)
     * [Gaming](#gaming)
-        * [Wine](#wine)
-        * [Crossover](#crossover)
+    * [Wine](#wine)
+        * [Whisky (Wine wrapper for macOS)](#whisky-wine-wrapper-for-macos)
+        * [CrossOver](#crossover)
     * [Coding](#coding)
     * [Utilities](#utilities)
 * [M4](#m4-1)
@@ -20,8 +21,8 @@
 # Overview
 
 My plan to transfer daily work and gaming pc from windows to mac mini M4.
-Plan to buy two minis, one is M4Pro with upgraded cpu/gpu and 48GB RAM, USD1999 or NTD67900.
-Another is basic M4 mini witout any upgarde, USD199 or NTD19999   
+Plan to buy two minis, one is M4Pro with upgraded cpu/gpu and 48GB RAM, 1999USD or 67900NTD.
+Another is basic M4 mini witout any upgarde, 199USD or 19999NTD   
 M4Pro will be used daily and M4 will be setup as homelab.  
 
 <a href="https://www.apple.com/shop/shared/yoursaves/AAAjAAIBMXIMOp-iR805JAq-UbLCtauF0ou-d-ImIobOzCPHmSafZ-mZHXipbqdrEgcTRwSeAAIBUkVQ1QkZP3fx6zvF2JPduP9wkY66cR-Y016_MA8K4jg" target="_blank">Mac Mini sepcs</a>
@@ -45,16 +46,26 @@ M4Pro will be used daily and M4 will be setup as homelab.
 ## Accessories
 
 - Hub : taobao, UGREEN
-- SSD : WDSN580X 2TB black NTD4530, <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=10452240" target="_blank">momo product link</a>
+- SSD : WDSN580X 2TB black 4530NTD, <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=10452240" target="_blank">momo product link</a>
 - SSD disk box, taobao UGREEN
 
 <a href="https://www.reddit.com/r/macmini/comments/1gj3ies/you_can_buy_the_mac_mini_with_the_smallest/" target="_blank">able to directly install apps on mac at macOS15</a>
 
 ## Gaming
 
-### Wine
+## Wine
 
-### Crossover
+### Whisky (Wine wrapper for macOS)
+
+- Free and open source, but support less apps and may not be updated to Wine 
+- <a href="https://github.com/Whisky-App/Whisky" target="_blank">github</a>
+- <a href="https://docs.getwhisky.app/" target="_blank">Whisky wiki</a>
+- <a href="https://www.reddit.com/r/macgaming/comments/1glc0m7/how_to_downgrade_steam_inside_of_whisky_to_get/" target="_blank">downgrade steam version in Whisky</a>
+
+### CrossOver
+
+- 74 USD per month, 494 USD lifetime
+- After 
 
 ## Coding
 
@@ -78,7 +89,7 @@ M4Pro will be used daily and M4 will be setup as homelab.
 
 ## Accessories
 
-- HDD : WD40EZAX blue NTD2990, <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13357989" target="_blank">momo product link</a>
+- HDD : WD40EZAX blue 2990NTD, <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13357989" target="_blank">momo product link</a>
 - HDD external box : taobao UGREEN
 
 ## NAS
