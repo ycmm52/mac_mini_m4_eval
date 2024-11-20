@@ -100,6 +100,7 @@ M4Pro will be used daily and M4 will be setup as homelab.
 
 - downloader : yt-dlp, <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">github</a>
 - screen shot : 
+- video player
 - file manager
 - browser
 - browser extensions
