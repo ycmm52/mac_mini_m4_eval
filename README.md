@@ -17,6 +17,10 @@
 * [M4](#m4-1)
     * [Accessories](#accessories-1)
     * [NAS](#nas)
+* [Note](#note)
+    * [Graphical API](#graphical-api)
+    * [OS Translation Layers](#os-translation-layers)
+    * [Misc](#misc)
 
 <!-- vim-markdown-toc -->
 
@@ -108,3 +112,30 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - HDD external box : taobao UGREEN
 
 ## NAS
+
+# Note
+
+didn't expect these terms would get so confusing
+
+## Graphical API
+
+- API between game and hardware
+- DirectX 11/12/10..., developed by Microsoft
+- OpenGL, Open Graphics Library, replaced by Vulkan
+- Vulkan, developed by AMD and others
+- Metal, developed by Apple
+
+## OS Translation Layers
+
+- Proton: translate Windows API calls to Linux
+- Steam Linux runtime: make sure native linux games compatible on different distributions of Linux
+- luxtorpeda: like steam linux runtime
+
+## Misc
+
+- GPTK (Game Porting Toolkit)
+    - translate in real time
+    - GPTK combines Wine with Apple's D3DMetal which supports DirectX 11 and 12 
+- CrossOver
+    - pre-translate?
+    - not support DX12?
