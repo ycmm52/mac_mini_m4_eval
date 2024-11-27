@@ -19,7 +19,11 @@
     * [NAS](#nas)
 * [Note](#note)
     * [Graphical API](#graphical-api)
-    * [OS Translation Layers](#os-translation-layers)
+    * [Translation Layers](#translation-layers)
+        * [Windows to Linux/macOS](#windows-to-linuxmacos)
+        * [Linux to Linux](#linux-to-linux)
+        * [CPU Architecture](#cpu-architecture)
+        * [Graphical API](#graphical-api-1)
     * [Misc](#misc)
 
 <!-- vim-markdown-toc -->
@@ -126,17 +130,33 @@ didn't expect these terms would get so confusing
 - Vulkan, developed by AMD and others
 - Metal, developed by Apple
 
-## OS Translation Layers
+## Translation Layers
 
-- Proton: translate Windows API calls to Linux
-- Steam Linux runtime: make sure native linux games compatible on different distributions of Linux
-- luxtorpeda: like steam linux runtime
+### Windows to Linux/macOS
 
-## Misc
-
+- Wine: Windows API translation layer
 - GPTK (Game Porting Toolkit)
     - translate in real time
     - GPTK combines Wine with Apple's D3DMetal which supports DirectX 11 and 12 
+- Proton: based on Wine. Translate Windows API calls to Linux
+
+### Linux to Linux 
+
+- Steam Linux runtime: make sure native linux games compatible on different distributions of Linux
+- luxtorpeda: like steam linux runtime
+
+### CPU Architecture
+
+- box86: ARM to x86
+
+### Graphical API
+
+- DXVK: DX to Vulkan
+
+## Misc
+
 - CrossOver
     - pre-translate?
     - not support DX12?
+- Winetricks
+    - setup Wine
