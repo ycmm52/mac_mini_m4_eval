@@ -20,7 +20,7 @@
 * [Note](#note)
     * [Graphical API](#graphical-api)
     * [Translation Layers](#translation-layers)
-        * [Windows to Linux/macOS](#windows-to-linuxmacos)
+        * [Windows dll to Linux/macOS](#windows-dll-to-linuxmacos)
         * [Linux to Linux](#linux-to-linux)
         * [CPU Architecture](#cpu-architecture)
         * [Graphical API](#graphical-api-1)
@@ -132,13 +132,24 @@ didn't expect these terms would get so confusing
 
 ## Translation Layers
 
-### Windows to Linux/macOS
+- Summary: 
+    - x86 -> Arm (Rosetta 2)
+    - Windows dll (Wine and others based on Wine)
+- Graphic summary: 
+    - CrossOver: Direct3D ->(DXVK/VKD3D) Vulkan ->(MoltenVK) Metal
+    - GPTK: Direct3D ->(D3DMetal) Metal 
+    - latest CrossOver can use D3DMetal now
+
+### Windows dll to Linux/macOS
 
 - Wine: Windows API translation layer
 - GPTK (Game Porting Toolkit)
     - translate in real time
     - GPTK combines Wine with Apple's D3DMetal which supports DirectX 11 and 12 
-- Proton: based on Wine. Translate Windows API calls to Linux
+- Proton: based on Wine. Translate Windows API calls to Linux, but Proton also combined DXVK and others
+- CrossOver
+    - pre-translate?
+    - not support DX12?
 
 ### Linux to Linux 
 
@@ -148,15 +159,15 @@ didn't expect these terms would get so confusing
 ### CPU Architecture
 
 - box86: ARM to x86
+- Rosetta 2 : x86 to ARM by apple
 
 ### Graphical API
 
-- DXVK: DX to Vulkan
+- DXVK: DX to Vulkan, use Vulkan to simulate Direct3D
+- VKD3D: same as DXVK
+- MoltenVK: Vulkan to Metal, used by CrossOver
 
 ## Misc
 
-- CrossOver
-    - pre-translate?
-    - not support DX12?
 - Winetricks
     - setup Wine
