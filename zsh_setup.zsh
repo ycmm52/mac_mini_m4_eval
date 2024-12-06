@@ -6,6 +6,8 @@ ln -nfs ~/Documents/Github
 ln -nfs ~/Github/mac_mini_m4_eval/zshrc .zshrc
 lnf ~/Github/Web_Scrapping/vimrc/.vim
 lnf ~/Github/Web_Scrapping/vimrc/.vimrc
+lnf ~/Github/Web_Scrapping/tmux
+lnf ~/Github/Web_Scrapping/tmux/.tmux.conf
 
 ####################
 ###   Homebrew   ###
@@ -138,3 +140,9 @@ brew install zstd
 # nettracing
 brew install nettrace
 
+#################################
+###   Post-Package settings   ###
+#################################
+cd $HOME
+mkdir -p .config
+lnf ~/Github/bash/starship.toml
