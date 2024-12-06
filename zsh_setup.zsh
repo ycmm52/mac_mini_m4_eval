@@ -139,6 +139,8 @@ brew install glow
 brew install zstd
 # nettracing
 brew install nettrace
+# cd
+brew install zoxide
 
 #################################
 ###   Post-Package settings   ###

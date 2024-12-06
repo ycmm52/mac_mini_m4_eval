@@ -5,7 +5,7 @@ alias ss="source $HOME/.zshrc"
 alias ls="lsd"
 alias ll='ls -la'
 alias lt='ls -ltra'
-# alias cd='z'
+alias cd='z'
 alias b='cd ../'
 alias bb='cd ../../'
 alias bbb='cd ../../../'
@@ -41,3 +41,6 @@ zstyle ':completion:*' matcher-list 'm:{a-zA-Z-_}={A-Za-z_-}'
 ###   Packages   ###
 ####################
 eval "$(starship init zsh)"
+eval $(thefuck --alias)
+eval $(thefuck --alias fuck)
+eval "$(zoxide init zsh)"
