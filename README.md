@@ -92,7 +92,7 @@ M4Pro will be used daily and M4 will be setup as homelab.
 
 ## Coding
 
-- Vim
+- Vim, macVim
 - VSCode
 - terminal : <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">kitty</a>
 - shell : zsh
