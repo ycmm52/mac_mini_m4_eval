@@ -95,7 +95,7 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - Vim
 - VSCode
 - terminal : <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">kitty</a>
-- shell : zsh or fish?
+- shell : zsh
 - window manager : tmux
 - package manager : brew
 - python package manager : uv
@@ -106,8 +106,8 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - screen shot : 
 - video player : IINA
 - file manager
-- browser
-- browser extensions
+- browser : chrome
+- file sync : syncthing
 
 # M4
 
