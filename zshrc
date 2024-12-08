@@ -27,7 +27,7 @@ alias h="history"
 ###############
 ###   ENV   ###
 ###############
-export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH:/bin"
 
 ###################
 ###   Options   ###
