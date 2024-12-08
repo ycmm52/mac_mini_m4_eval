@@ -143,6 +143,13 @@ brew install nettrace
 brew install zoxide
 
 #################################
+###   Other Install Methods   ###
+#################################
+# kitty
+command -v kitty >/dev/null 2>&1 || curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
+ln -nfs ~/Github/mac_mini_m4_eval/kitty.conf ~/.config/kitty/
+
+#################################
 ###   Post-Package settings   ###
 #################################
 cd $HOME
