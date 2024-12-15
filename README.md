@@ -108,6 +108,7 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - file manager
 - browser : chrome
 - file sync : syncthing
+- hotkey : hammerspoon
 
 # M4
 
