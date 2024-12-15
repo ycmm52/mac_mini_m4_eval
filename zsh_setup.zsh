@@ -141,6 +141,7 @@ brew install zstd
 brew install nettrace
 # cd
 brew install zoxide
+brew install hammerspoon --cask
 
 #################################
 ###   Other Install Methods   ###
@@ -155,3 +156,9 @@ ln -nfs ~/Github/mac_mini_m4_eval/kitty.conf ~/.config/kitty/
 cd $HOME
 mkdir -p .config
 lnf ~/Github/bash/starship.toml
+
+# atuin
+curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
+atuin register -u <USERNAME> -e <EMAIL>
+atuin import auto
+atuin sync
