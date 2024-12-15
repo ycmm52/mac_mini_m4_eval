@@ -1,5 +1,7 @@
 <!-- vim-markdown-toc GFM -->
 
+* [TODO](#todo)
+    * [lower priority](#lower-priority)
 * [Overview](#overview)
     * [Requirement](#requirement)
         * [M4Pro](#m4pro)
@@ -27,6 +29,20 @@
     * [Misc](#misc)
 
 <!-- vim-markdown-toc -->
+
+# TODO
+
+- hammerspoon setup
+- file manager :
+- syncthing setup
+- screen shot : pixpin or snipaste or xnip
+- control monitor volume : lunar (brew install --cask lunar) 
+- virtual monitor setup
+- hyper dock
+
+## lower priority
+
+- nginx setup
 
 # Overview
 
@@ -105,7 +121,7 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - downloader : yt-dlp, <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">github</a>
 - screen shot : 
 - video player : IINA
-- file manager
+- file manager :
 - browser : chrome
 - file sync : syncthing
 - hotkey : hammerspoon
