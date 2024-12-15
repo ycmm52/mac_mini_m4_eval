@@ -1,6 +1,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [TODO](#todo)
+    * [lower priority](#lower-priority)
 * [Overview](#overview)
     * [Requirement](#requirement)
         * [M4Pro](#m4pro)
@@ -34,6 +35,13 @@
 - hammerspoon setup
 - file manager :
 - syncthing setup
+- screen shot : pixpin or snipaste or xnip
+- control monitor volume : lunar (brew install --cask lunar) 
+- virtual monitor setup
+- hyper dock
+
+## lower priority
+
 - nginx setup
 
 # Overview
