@@ -35,7 +35,6 @@
 - hammerspoon setup
 - syncthing setup
 - screen shot : pixpin or snipaste or xnip
-- control monitor volume : lunar (brew install --cask lunar) 
 - virtual monitor setup
 - hyper dock
 - terminal git setup for cli push

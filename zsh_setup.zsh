@@ -141,7 +141,14 @@ brew install zstd
 brew install nettrace
 # cd
 brew install zoxide
+# for hotkey
 brew install hammerspoon --cask
+# external monitor control
+brew install --cask lunar
+# make side botton work
+brew install --cask sanesidebuttons
+# enhance dock
+brew install --cask dockdoor
 
 #################################
 ###   Other Install Methods   ###
@@ -155,7 +162,8 @@ ln -nfs ~/Github/mac_mini_m4_eval/kitty.conf ~/.config/kitty/
 #################################
 cd $HOME
 mkdir -p .config
-lnf ~/Github/bash/starship.toml
+lnf ~/Github/Web_Scrapping/bash/starship.toml ~/.config
+lnf ~/Github/mac_mini_m4_eval/init.lua ~/.hammerspoon
 
 # atuin
 curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
