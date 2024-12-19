@@ -163,7 +163,9 @@ ln -nfs ~/Github/mac_mini_m4_eval/kitty.conf ~/.config/kitty/
 cd $HOME
 mkdir -p .config
 lnf ~/Github/Web_Scrapping/bash/starship.toml ~/.config
-lnf ~/Github/mac_mini_m4_eval/init.lua ~/.hammerspoon
+lnf ~/Github/mac_mini_m4_eval/hammerspoon/init.lua ~/.hammerspoon
+lnf ~/Github/mac_mini_m4_eval/hammerspoon/modules ~/.hammerspoon
+lnf ~/Github/mac_mini_m4_eval/hammerspoon/config ~/.hammerspoon
 
 # atuin
 curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
