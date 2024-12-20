@@ -32,12 +32,12 @@
 
 # TODO
 
-- hammerspoon setup
-- syncthing setup
-- screen shot : pixpin or snipaste or xnip
-- virtual monitor setup
-- hyper dock
-- terminal git setup for cli push
+- [OnGoing]     hammerspoon setup
+- [NotStart]    yazi setup
+- [NotStart]    syncthing setup
+- [NotStart]    screen shot : pixpin or snipaste or xnip
+- [NotStart]    virtual monitor setup
+- [NotStart]    terminal git setup for cli push
 
 ## lower priority
 
@@ -120,7 +120,7 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - downloader : yt-dlp, <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">github</a>
 - screen shot : 
 - video player : IINA
-- file manager : commander-one
+- file manager : commander-one (GUI), terminal : yazi
 - browser : chrome
 - file sync : syncthing
 - hotkey : hammerspoon
