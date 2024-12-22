@@ -2,9 +2,9 @@
 require("config.settings")  -- General settings
 require("modules.hotkey")
 require("modules.window_management")
--- require("modules.audio_switcher")
 require("modules.app_launcher")
 require("modules.caffeine")
+-- require("modules.audio_switcher")
 
 -- Initialize the hotkey module
 local hotkey = require("hs.hotkey")
@@ -17,3 +17,4 @@ end)
 
 -- Optional: Show alert when config is loaded
 hs.alert.show("Hammerspoon config loaded")
+

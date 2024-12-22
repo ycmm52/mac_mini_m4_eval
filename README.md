@@ -32,12 +32,16 @@
 
 # TODO
 
-- [OnGoing]     hammerspoon setup
-- [NotStart]    yazi setup
+- [OnGoing]     hammerspoon setup, clipboard manager?
+- [Done]     keyboard remap using Karabiner-Elements
+- [NotStart]    python venv setup using uv
+- [NotStart]    yazi setup, git extension, config
+- [NotStart]    FreeFileSync setup
 - [NotStart]    syncthing setup
 - [NotStart]    screen shot : pixpin or snipaste or xnip
 - [NotStart]    virtual monitor setup
 - [NotStart]    terminal git setup for cli push
+- [NotStart]    search for better monitor sharing or vnc methods
 
 ## lower priority
 
@@ -121,9 +125,10 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - screen shot : 
 - video player : IINA
 - file manager : commander-one (GUI), terminal : yazi
-- browser : chrome
-- file sync : syncthing
+- file sync : syncthing, FreeFileSync
 - hotkey : hammerspoon
+- key remap : Karabiner-Elements
+- browser : chrome
 
 # M4
 
