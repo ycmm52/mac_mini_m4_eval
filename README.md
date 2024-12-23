@@ -38,6 +38,7 @@
 - [NotStart]    yazi setup, git extension, config
 - [NotStart]    FreeFileSync setup
 - [NotStart]    syncthing setup
+- [NotStart]    Blip setup
 - [NotStart]    screen shot : pixpin or snipaste or xnip
 - [NotStart]    virtual monitor setup
 - [NotStart]    terminal git setup for cli push
@@ -126,6 +127,8 @@ M4Pro will be used daily and M4 will be setup as homelab.
 - video player : IINA
 - file manager : commander-one (GUI), terminal : yazi
 - file sync : syncthing, FreeFileSync
+- file transfer local : LAN
+- file transfer local/global : Blip
 - hotkey : hammerspoon
 - key remap : Karabiner-Elements
 - browser : chrome
